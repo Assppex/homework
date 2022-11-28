@@ -1,0 +1,5 @@
+C:/Users/temas/source/repos/HomeWork1/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/temas/source/repos/HomeWork1/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/temas/source/repos/HomeWork1/out/build/x64-debug/HomeWork1/CMakeFiles/HomeWork1.dir
+C:/Users/temas/source/repos/HomeWork1/out/build/x64-debug/HomeWork1/CMakeFiles/edit_cache.dir
+C:/Users/temas/source/repos/HomeWork1/out/build/x64-debug/HomeWork1/CMakeFiles/rebuild_cache.dir
